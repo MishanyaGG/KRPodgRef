@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mikhail\\Desktop\\Project C#\\KRPodgRef\\FirstTicket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EA997-5AF4-4F75-B7F9-7255C09B1F11}|ConsoleSolution\\ConsoleSolution.csproj|c:\\users\\mikhail\\desktop\\project c#\\krpodgref\\firstticket\\consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40EA997-5AF4-4F75-B7F9-7255C09B1F11}|ConsoleSolution\\ConsoleSolution.csproj|solutionrelative:consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mikhail\\Desktop\\Project C#\\KRPodgRef\\FirstTicket\\ConsoleSolution\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Mikhail\\Desktop\\Project C#\\KRPodgRef\\FirstTicket\\ConsoleSolution\\Program.cs",
+              "RelativeToolTip": "ConsoleSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T05:37:39.274Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 128,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
