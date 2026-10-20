@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Mikhail\\Desktop\\Project C#\\KRPodgRef\\FirstTicket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C40EA997-5AF4-4F75-B7F9-7255C09B1F11}|ConsoleSolution\\ConsoleSolution.csproj|c:\\users\\mikhail\\desktop\\project c#\\krpodgref\\firstticket\\consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C40EA997-5AF4-4F75-B7F9-7255C09B1F11}|ConsoleSolution\\ConsoleSolution.csproj|solutionrelative:consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01E941BE-69D7-963A-0637-E86AD66B9C60}|ConsoleSolution\\ConsoleSolution.csproj|c:\\users\\mikhail\\desktop\\project c#\\krpodgref\\firstticket\\consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E941BE-69D7-963A-0637-E86AD66B9C60}|ConsoleSolution\\ConsoleSolution.csproj|solutionrelative:consolesolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ConsoleSolution\\Program.cs",
               "ToolTip": "C:\\Users\\Mikhail\\Desktop\\Project C#\\KRPodgRef\\FirstTicket\\ConsoleSolution\\Program.cs",
               "RelativeToolTip": "ConsoleSolution\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T05:37:39.274Z",
               "EditorCaption": ""
