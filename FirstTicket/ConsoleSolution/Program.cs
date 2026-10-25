@@ -14,6 +14,8 @@ namespace ConsoleSolution
      */
     class Program
     {
+        private const double PaymentCard = 0.05;
+        private const double PaymentCash = 0.5;
         static void Main()
         {
             var order = new Order(
@@ -29,6 +31,10 @@ namespace ConsoleSolution
             ProcessOrder(order);
         }
 
+        /// <summary>
+        /// Офофрмление заказа
+        /// </summary>
+        /// <param name="order"></param>
         static void ProcessOrder(Order order)
         {
             double total = 0;
@@ -42,12 +48,12 @@ namespace ConsoleSolution
             {
                 case PaymentTypes.Card:
                     {
-                        total += total * 0.05; break;
+                        total += total * PaymentCard; break;
                     }
 
                 case PaymentTypes.Cash:
                     {
-                        total += 0.5; break;
+                        total += PaymentCash; break;
                     }
 
                 case PaymentTypes.Bonus:
