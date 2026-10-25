@@ -16,6 +16,7 @@ namespace ConsoleSolution
     {
         private const double PaymentCard = 0.05;
         private const double PaymentCash = 0.5;
+        private const int PaymentBonus = 5;
         static void Main()
         {
             var order = new Order(
@@ -58,7 +59,7 @@ namespace ConsoleSolution
 
                 case PaymentTypes.Bonus:
                     {
-                        if (total > 100) { total -= 5; } break;
+                        if (total > 100) { total -= PaymentBonus; } break;
                     }
             }
 

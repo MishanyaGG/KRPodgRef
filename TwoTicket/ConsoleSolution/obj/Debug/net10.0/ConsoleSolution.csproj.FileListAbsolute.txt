@@ -1,0 +1,16 @@
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\bin\Debug\net10.0\ConsoleSolution.exe
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\bin\Debug\net10.0\ConsoleSolution.deps.json
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\bin\Debug\net10.0\ConsoleSolution.runtimeconfig.json
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\bin\Debug\net10.0\ConsoleSolution.dll
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\bin\Debug\net10.0\ConsoleSolution.pdb
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.AssemblyInfo.cs
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.sourcelink.json
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.dll
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\refint\ConsoleSolution.dll
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.pdb
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleSolution.genruntimeconfig.cache
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ref\ConsoleSolution.dll
+C:\Users\Mikhail\Desktop\Project C#\KRPodgRef\TwoTicket\ConsoleSolution\obj\Debug\net10.0\ConsoleS.12D3151A.Up2Date
