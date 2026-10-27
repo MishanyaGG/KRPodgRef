@@ -46,13 +46,18 @@ namespace ConsoleSolution
             _price = price;
             _customerYears = customerYears;
             isPosistivePrice();
+            SetDiscount();
         }
 
         /// <summary>
         /// Расчет стоимости
         /// </summary>
         /// <returns>стоимость с учетом скидки</returns>
-        public abstract decimal Calculate();
+        public decimal Calculate()
+        {
+            decimal result = _price - _discount;
+            return result < 0 ? 0 : result;
+        }
         
         /// <summary>
         /// Проверка что стоимость положительная
@@ -64,6 +69,8 @@ namespace ConsoleSolution
             if (_price < 0) throw new Exception("Стоимость отрицательная");
         }
 
+
+
     }
     class NewYearDiscount : DiscountType
     {
@@ -72,12 +79,6 @@ namespace ConsoleSolution
         protected override void SetDiscount()
         {
             _discount = 0.15m;
-        }
-
-        public override decimal Calculate()
-        {
-            decimal result = _price - _discount;
-            return result < 0 ? 0 : result;
         }
     }
 
@@ -89,12 +90,6 @@ namespace ConsoleSolution
         {
             _discount = 0.02m;
         }
-
-        public override decimal Calculate()
-        {
-            decimal result = _price - _discount;
-            return result < 0 ? 0 : result;
-        }
     }
 
     class BlackFridayDiscount : DiscountType
@@ -104,12 +99,6 @@ namespace ConsoleSolution
         protected override void SetDiscount()
         {
             _discount = 0.30m;
-        }
-
-        public override decimal Calculate()
-        {
-            decimal result = _price - _discount;
-            return result < 0 ? 0 : result;
         }
     }
     internal class Program
